@@ -23,7 +23,7 @@ VI - Densidade demográfica.
 I - Você irá escolher qual atributo quer comparar, (Àrea, PIB, População...etc)
 
 II - vence a carta com o valor do atributo maior!
-entretanto, apenas a Densidade demográfica ganha a carta que tiver MENOS valor.
+entretanto, apenas a Densidade demográfica ganha aquela carta que tiver MENOS valor.
 
 
 🏅 Agora vamos lá!! Entre no jogo para se divertir com algum amigo!
